@@ -1,0 +1,11 @@
+gene	Abun_r	Abun_p	Richness_r	Richness_p	merge_r	Drug_Class	Ave_Abun	Freq
+aadA	0.446	1.08E-19	0.813	8.76E-99	0.63	aminoglycoside antibiotic	0.997004235	378
+tetM	0.513126194	6.42E-30	0.810415159	2.85E-100	0.661770677	tetracycline antibiotic	0.480664471	374
+Escherichia coli GlpT with mutation conferring resistance to fosfomycin	0.513116952	6.44E-30	0.849111235	2.56E-119	0.681114093	fosfomycin	0.824223059	338
+ANT(2'')-Ia	0.552261947	2.66E-35	0.843236536	4.23E-116	0.697749241	aminoglycoside antibiotic	0.300760471	266
+APH(2'')-IIIa	0.581151321	9.34E-40	0.836092737	2.33E-112	0.708622029	aminoglycoside antibiotic	0.068575294	208
+vgaE	0.59989968	6.81E-43	0.830841896	1.01E-109	0.715370788	streptogramin antibiotic; pleuromutilin antibiotic	0.124565412	128
+catS	0.612883786	3.44E-45	0.829401589	5.13E-109	0.721142688	phenicol antibiotic	0.201690824	368
+QnrS1	0.610275667	1.01E-44	0.842868801	6.67E-116	0.726572234	fluoroquinolone antibiotic	0.594204941	254
+OXA-53	0.615605028	1.10E-45	0.842063146	1.79E-115	0.728834087	cephalosporin; penam	0.178707059	298
+dfrA20	0.615717111	1.05E-45	0.847032656	3.65E-118	0.731374883	diaminopyrimidine antibiotic	0.034989412	41
