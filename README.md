@@ -77,4 +77,4 @@ Gene abundance were caculated by aligning clean reads of each sample to the gene
 
 ### Statistical analysis and visualization
 
-Statistical analysis and visualization were handled by scripting with R program. These scripts were placed in "[Scripts](https://github.com/zhouyunyan/PigARGs/tree/main/Scripts)" directory. All related input data for statistical analysis and visualization are in ["https://github.com/zhouyunyan/PigARGs/tree/main/Pre-processed_Files) directory.
+Statistical analysis and visualization were handled by scripting with R program. These scripts were placed in "[Scripts](https://github.com/zhouyunyan/PigARGs/tree/main/Scripts)" directory. All related input data for statistical analysis and visualization are in "[Pre-processed_Files](https://github.com/zhouyunyan/PigARGs/tree/main/Pre-processed_Files) directory.
