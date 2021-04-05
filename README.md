@@ -1,6 +1,6 @@
 # Pipeline for metagenomic analysis
 
-This directory contains scripts related to the manuscript "Scanning swine gut resistome in various farms under different feeding patterns and identification of indicators for the pollution level of antimicrobial resistance genes". 
+This directory contains scripts related to the manuscript "Surveying swine gut resistome in various farms under different feeding patterns and identification of indicators predicting the pollution level of antimicrobial resistance genes". 
 
 Before running, you must ensure that all required softwares and databases are installed successfully. 
 
